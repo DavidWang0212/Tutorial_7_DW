@@ -18,3 +18,5 @@ header-includes:
 - \usepackage{sectsty}
 - \sectionfont{\color{olive}}
 - \usepackage{verbatim}
+
+\begin{itemize} \item ... \end{itemize}
